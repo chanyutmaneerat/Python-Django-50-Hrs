@@ -1,4 +1,4 @@
-# Python-Django-50-Hrs
+# Django-50-Hrs
 Python Django 50 Hrs
 
 EP.1 วันที่ 25 พฤษภาคม 2563 เวลา 20.00-22.00 น.
